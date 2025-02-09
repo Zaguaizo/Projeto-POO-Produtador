@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.produtador.app-mergeDebugResources-34:/layout/activity_main.xml",
+        "source": "com.example.produtador.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\swenc\\.gradle\\daemon\\8.9\\com.example.produtador.app-mergeDebugResources-34:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\swenc\\.gradle\\daemon\\8.9\\com.example.produtador.app-main-37:\\layout\\activity_main.xml"
+    }
+]
